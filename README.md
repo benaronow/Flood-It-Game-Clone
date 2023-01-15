@@ -3,7 +3,7 @@
  ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This project was meant to replicate the game "Flood It," which can be found at <a href="https://unixpapa.com/floodit/">this link</a>.
+This project replicates the web-based game "Flood It," which can be found at <a href="https://unixpapa.com/floodit/">this link</a>.
 The size and number of colors used in a given game can be manipulated within the main method, and the allotted number of steps the user
 is limited to is based off of these inputs. The fundamental gameplay as well as the "flooding" animation were both reconstructed in this
 project without the use of any source code.
